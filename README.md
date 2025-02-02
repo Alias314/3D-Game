@@ -1,8 +1,11 @@
-# React + Vite
+# 3d game but idk what exact game
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+gonna rename later when i know what exact game to make
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Technologies Used:
+1. React
+2. Tailwind
+3. React Three Fiber (for 3d)
+4. React Three Rapier (for 3d physics, not yet installed though)
+5. Vite
+6. Gonna add more later if needed
