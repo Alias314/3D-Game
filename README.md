@@ -9,3 +9,8 @@ gonna rename later when i know what exact game to make
 4. React Three Rapier (for 3d physics, not yet installed though)
 5. Vite
 6. Gonna add more later if needed
+
+## Installation:
+1. fork repo
+2. clone repo
+3. npm install
